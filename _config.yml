@@ -1,0 +1,21 @@
+# Site settings
+title: Reynardo Etenia Wongso
+description: Rey blog
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Reynardo Etenia Wongso
+user_description: I'm just a normal guy trying to do some computer stuff and photography, lately I've been trying to learn about AR and Machine Learning
+user_title: Normal Guy
+email: me@rey.wtf
+# twitter_username: lorem_ipsum
+github_username:  reynardoew
+instagram_username: reynardoew
+# gplus_username:  lorem_ipsum
+
+# Google-analytics
+google-analytics:
+  id: "UA-101089220-5"
+
+exclude: ['package.json', 'src' , 'node_modules']
