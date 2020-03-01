@@ -1,0 +1,6 @@
+---
+layout: donate
+
+# Donate TerraNesia
+
+---
