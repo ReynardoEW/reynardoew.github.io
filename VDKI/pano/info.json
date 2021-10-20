@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 19167,
-  "@id" : "http://192.168.100.59/iiif/pano",
+  "@id" : "https://reynardoew.github.io/VDKI/pano/",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 13141
 }
