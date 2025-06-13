@@ -416,6 +416,7 @@ if (Array.isArray(data1)) {
 // Match data1 and data2, filtering out already processed items and deadUrl items
 comparisonData = data2
     .filter(item => !processedIDs.includes(item.id) && !item.deadUrl)
+    .sort((a, b) => b.listedAt - a.listedAt)
     .map(original => ({
         original,
         verification: data1Lookup[original.id]
